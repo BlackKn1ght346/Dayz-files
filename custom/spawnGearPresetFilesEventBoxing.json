@@ -1,0 +1,348 @@
+{
+    "spawnWeight": 1,
+    "name": "Player",
+    
+    "attachmentSlotItemSets": [
+        {
+            "slotName": "hands",
+            "discreteItemSets": [
+                {
+                    "itemType": "PaddedGloves_Beige",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "PaddedGloves_Brown",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        },
+        {
+            "slotName": "Head",
+            "discreteItemSets": [
+                {
+                    "itemType": "HockeyHelmet_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    }, 
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "HockeyHelmet_Blue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "HockeyHelmet_Red",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "HockeyHelmet_White",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "HockeyHelmet_White",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        },
+        {
+            "slotName": "Body",
+            "discreteItemSets": [
+                {
+                    "itemType": "TrackSuitJacket_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitJacket_Blue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitJacket_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitJacket_LightBlue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitJacket_Red",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        },
+        {
+            "slotName": "Legs",
+            "discreteItemSets": [
+                {
+                    "itemType": "TrackSuitPants_Blue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitPants_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitPants_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitPants_LightBlue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "TrackSuitPants_Red",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        },
+        {
+            "slotName": "Feet",
+            "discreteItemSets": [
+                {
+                    "itemType": "AthleticShoes_Black",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "AthleticShoes_Blue",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "AthleticShoes_Brown",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "AthleticShoes_Green",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "AthleticShoes_Grey",
+                    "spawnWeight": 1,
+                    "attributes": {
+                        "healthMin": 0.9,
+                        "healthMax": 0.99,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        }
+    ],
+    "discreteUnsortedItemSets": [
+        {
+            "name": "Cargo1",
+            "spawnWeight": 1,
+            "attributes": {
+                "healthMin": 1,
+                "healthMax": 1,
+                "quantityMin": 1,
+                "quantityMax": 1
+            },
+            "complexChildrenTypes": [
+                {
+                    "itemType": "",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": 2
+                },
+                {
+                    "itemType": "Pear",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": 1
+                },
+                {
+                    "itemType": "Pear",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "Pear",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                },
+                {
+                    "itemType": "HockeyHelmet_White",
+                    "attributes": {
+                        "healthMin": 1,
+                        "healthMax": 1,
+                        "quantityMin": 1,
+                        "quantityMax": 1
+                    },
+                    "quickBarSlot": -1
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Underground_Stairs_Block",
+            "pos": [
+                5494.4345703125,
+                482.7875061035156,
+                15117.7265625
+            ],
+            "ypr": [
+                -13.321048736572266,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999925434589386,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Block_Terminator",
+            "pos": [
+                5494.4248046875,
+                487.780517578125,
+                15117.7294921875
+            ],
+            "ypr": [
+                -13.277506828308106,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999401569366455,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Exit",
+            "pos": [
+                5504.0595703125,
+                487.6659851074219,
+                15105.0166015625
+            ],
+            "ypr": [
+                166.36317443847657,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999296069145203,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Start",
+            "pos": [
+                5505.52880859375,
+                478.25677490234377,
+                15105.40625
+            ],
+            "ypr": [
+                166.2322998046875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999943196773529,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Panel_Lever",
+            "pos": [
+                5497.38623046875,
+                489.525390625,
+                15104.01953125
+            ],
+            "ypr": [
+                -102.87934112548828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999181628227234,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Stairs_Start",
+            "pos": [
+                5494.43798828125,
+                478.25677490234377,
+                15117.7314453125
+            ],
+            "ypr": [
+                -13.42943286895752,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999289512634277,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCncH_5",
+            "pos": [
+                5496.43310546875,
+                487.6265869140625,
+                15107.7900390625
+            ],
+            "ypr": [
+                -103.8974380493164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999807476997376,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_4",
+            "pos": [
+                5499.142578125,
+                489.51190185546877,
+                15110.494140625
+            ],
+            "ypr": [
+                -103.04720306396485,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999330639839172,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_8",
+            "pos": [
+                5494.126953125,
+                489.514892578125,
+                15107.2392578125
+            ],
+            "ypr": [
+                -103.92919158935547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999351501464844,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_4",
+            "pos": [
+                5496.90478515625,
+                489.5118103027344,
+                15103.6376953125
+            ],
+            "ypr": [
+                -12.922087669372559,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999934732913971,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_8",
+            "pos": [
+                5493.9873046875,
+                489.514892578125,
+                15107.80859375
+            ],
+            "ypr": [
+                -103.92919158935547,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.99993497133255,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCncH_5",
+            "pos": [
+                5497.43798828125,
+                487.6265869140625,
+                15108.046875
+            ],
+            "ypr": [
+                -103.89742279052735,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999351501464844,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Pole",
+            "pos": [
+                5493.4033203125,
+                489.431884765625,
+                15111.564453125
+            ],
+            "ypr": [
+                -103.50496673583985,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.99993497133255,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndCnc4_Pole",
+            "pos": [
+                5493.7509765625,
+                489.431884765625,
+                15111.634765625
+            ],
+            "ypr": [
+                -103.50498962402344,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999346137046814,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

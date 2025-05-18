@@ -1,0 +1,1986 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Camp_House_brown",
+            "pos": [
+                2789.0249023438,
+                428.8659362793,
+                14607.4765625
+            ],
+            "ypr": [
+                -170.78468322754,
+                0,
+                0
+            ],
+            "scale": 0.9999326467514038,
+            "enableCEPersistency": 0,
+            "_comments1": "File created at DayZ BoosterZ",
+            "_comments2": "You can view more tools like this at dayzboosterz.com"
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2760.9282226562,
+                422.2138671875,
+                14643.568359375
+            ],
+            "ypr": [
+                45,
+                0.52772355079651,
+                8.0494613647461
+            ],
+            "scale": 0.9967119097709656,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "CamoNetShelter",
+            "pos": [
+                2802.7175292969,
+                413.08847045898,
+                14614.776367188
+            ],
+            "ypr": [
+                -69.627685546875,
+                7.2635226249695,
+                -2.962718963623
+            ],
+            "scale": 0.9971790909767151,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "CamoNetShelter",
+            "pos": [
+                2754.1091308594,
+                417.31597900391,
+                14617.029296875
+            ],
+            "ypr": [
+                97.830764770508,
+                -4.8691372871399,
+                4.3241934776306
+            ],
+            "scale": 0.9984498023986816,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Tisy_RadarPlatform_Top",
+            "pos": [
+                2783.3088378906,
+                419.11630249023,
+                14622.439453125
+            ],
+            "ypr": [
+                8.4494972229004,
+                0,
+                0
+            ],
+            "scale": 0.9999765157699585,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2774.5336914062,
+                419.34320068359,
+                14602.521484375
+            ],
+            "ypr": [
+                10.130597114563,
+                0,
+                0
+            ],
+            "scale": 0.9999651908874512,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Sawmill_Illuminanttower",
+            "pos": [
+                2801.5715332031,
+                424.69329833984,
+                14636.64453125
+            ],
+            "ypr": [
+                -135.53311157227,
+                0,
+                0
+            ],
+            "scale": 0.9999642372131348,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_Fortified_Nest_Watchtower",
+            "pos": [
+                2774.8205566406,
+                428.41934204102,
+                14608.228515625
+            ],
+            "ypr": [
+                -81.962547302246,
+                0,
+                0
+            ],
+            "scale": 0.9999051094055176,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_ControlTower",
+            "pos": [
+                2767.55078125,
+                425.36755371094,
+                14627.862304688
+            ],
+            "ypr": [
+                7.7336120605469,
+                0,
+                0
+            ],
+            "scale": 0.9999954700469971,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2653.3139642188025,
+                427.23796032812004,
+                14652.950195625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_caraganaarborescens_2s_summer.p3d",
+            "pos": [
+                2735.9855962031,
+                426.56500185742,
+                14689.257812124999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_corylusheterophylla_2s_summer.p3d",
+            "pos": [
+                2743.3706054688,
+                415.32981860742,
+                14594.970702562001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2730.6950689843975,
+                431.06213347656,
+                14715.380859062001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_prunusspinosa_2s_summer.p3d",
+            "pos": [
+                2718.402587640598,
+                419.07626351562,
+                14607.4189455
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_sambucusnigra_1s_summer.p3d",
+            "pos": [
+                2761.5812993281,
+                421.03636205469,
+                14657.846679688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_sambucusnigra_2s_summer.p3d",
+            "pos": [
+                2701.1469719062015,
+                430.18185510937997,
+                14698.511718938
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_betulapendulae_2s_summer.p3d",
+            "pos": [
+                2690.5893548438025,
+                430.53715510155996,
+                14718.180663625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_betulapendulae_2w_summer.p3d",
+            "pos": [
+                2770.8044433594,
+                419.04455566797003,
+                14661.012694812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_1fc_summer.p3d",
+            "pos": [
+                2691.1228021094025,
+                421.99479674805,
+                14747.272461188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_1fe_summer.p3d",
+            "pos": [
+                2672.4174798438025,
+                433.65876730078,
+                14753.68847675
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2f_summer.p3d",
+            "pos": [
+                2679.3701178124975,
+                432.04979021094,
+                14760.020507375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2674.1931151094027,
+                418.82148766797,
+                14592.88085975
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3d_summer.p3d",
+            "pos": [
+                2693.6215820312,
+                431.6526039375,
+                14753.108398438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_3s_summer.p3d",
+            "pos": [
+                2725.151366937498,
+                428.06991592578004,
+                14756.339843938
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvaticae_2s_summer.p3d",
+            "pos": [
+                2707.4326171875,
+                433.87455786914,
+                14782.2216805
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2722.2939453125,
+                425.31643756054996,
+                14685.095703938001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_larixdecidua_1f_summer.p3d",
+            "pos": [
+                2722.1240234375,
+                422.9921566582,
+                14650.832031312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_1s_summer.p3d",
+            "pos": [
+                2823.5556646874975,
+                407.15095458594,
+                14571.536133125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_2f_summer.p3d",
+            "pos": [
+                2662.4870597969016,
+                416.66455086719,
+                14628.081054125001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3f_trail_b_summer.p3d",
+            "pos": [
+                2757.8762212031,
+                416.87396262695,
+                14758.48730475
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2772.6169434843973,
+                425.68434085352,
+                14738.542968812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_2f_summer.p3d",
+            "pos": [
+                2752.6081536719025,
+                412.54591376758003,
+                14729.376953062
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_2fb_summer.p3d",
+            "pos": [
+                2750.2966302344025,
+                419.30235300000004,
+                14753.997070375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2666.0891114530973,
+                427.22538699609004,
+                14638.5615235
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_2s_summer.p3d",
+            "pos": [
+                2750.3200677344025,
+                399.04740880469,
+                14525.099609375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_3d_summer.p3d",
+            "pos": [
+                2813.864257562498,
+                395.34278896289004,
+                14529.592773061999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_3fc_summer.p3d",
+            "pos": [
+                2699.87890625,
+                404.11125210742,
+                14568.949219125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_3s_summer.p3d",
+            "pos": [
+                2869.7875981562,
+                392.46511860156,
+                14604.014648625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_populusnigra_3sb_summer.p3d",
+            "pos": [
+                2867.900146234398,
+                399.8476570957,
+                14580.499023625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pyruscommunis_2s_summer.p3d",
+            "pos": [
+                2702.3483879219016,
+                413.54174885547,
+                14560.524413750001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_sorbus_2s_summer.p3d",
+            "pos": [
+                2831.6767578125,
+                399.09602360938004,
+                14529.075194812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999996423721313,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2785.6447753906,
+                431.69586181641,
+                14633.358398438
+            ],
+            "ypr": [
+                86.644943237305,
+                0,
+                0
+            ],
+            "scale": 0.9966731667518616,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Sawmill_Illuminanttower",
+            "pos": [
+                2764.9455566406,
+                424.54815673828,
+                14597.57421875
+            ],
+            "ypr": [
+                38.238273620605,
+                0,
+                0
+            ],
+            "scale": 0.9999792575836182,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2760.3061523438,
+                428.11264038086,
+                14647.151367188
+            ],
+            "ypr": [
+                56.746894836426,
+                -1.977134346962,
+                -90
+            ],
+            "scale": 0.9999473690986633,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2751.9697265625,
+                427.60244750977,
+                14638.635742188
+            ],
+            "ypr": [
+                34.252906799316,
+                -1.880545258522,
+                -90
+            ],
+            "scale": 0.9999008178710938,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2748.6455078125,
+                427.64498901367,
+                14627.41015625
+            ],
+            "ypr": [
+                4.4530429840088,
+                -1.8194043636322,
+                -90
+            ],
+            "scale": 0.999873161315918,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2750.5400390625,
+                425.48614501953,
+                14614.657226562
+            ],
+            "ypr": [
+                -15.174919128418,
+                -1.8429292440414,
+                -90
+            ],
+            "scale": 0.999871015548706,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2764.8776855469,
+                423.35369873047,
+                14595.185546875
+            ],
+            "ypr": [
+                -50.275630950928,
+                -0.79890382289886,
+                -90
+            ],
+            "scale": 0.9999913573265076,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2756.0910644531,
+                425.07327270508,
+                14603.83984375
+            ],
+            "ypr": [
+                -38.956573486328,
+                -0.77656745910645,
+                -90
+            ],
+            "scale": 0.9999403953552246,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2774.1867675781,
+                424.34756469727,
+                14590.849609375
+            ],
+            "ypr": [
+                -85.375587463379,
+                -0.75867927074432,
+                -90
+            ],
+            "scale": 0.9999167919158936,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wall_PipeFence_4",
+            "pos": [
+                2779.6967773438,
+                427.09298706055,
+                14603.663085938
+            ],
+            "ypr": [
+                8.6863451004028,
+                0,
+                0
+            ],
+            "scale": 0.9999657273292542,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Platform2_Wall",
+            "pos": [
+                2779.0651855469,
+                425.87066650391,
+                14603.844726562
+            ],
+            "ypr": [
+                -81.805999755859,
+                0,
+                0
+            ],
+            "scale": 0.9999195337295532,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wall_PipeFence_4",
+            "pos": [
+                2783.8854980469,
+                427.09298706055,
+                14603.263671875
+            ],
+            "ypr": [
+                -77.813697814941,
+                0,
+                0
+            ],
+            "scale": 0.9999540448188782,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                2790.1000976562,
+                408.87564086914,
+                14599
+            ],
+            "ypr": [
+                -169.95166015625,
+                0,
+                0
+            ],
+            "scale": 0.999941885471344,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2775.1145019531,
+                422.29666137695,
+                14590.846679688
+            ],
+            "ypr": [
+                -85.375587463379,
+                -0.75861597061157,
+                -90
+            ],
+            "scale": 0.999916672706604,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2786.4987792969,
+                422.04742431641,
+                14593.149414062
+            ],
+            "ypr": [
+                -108.29390716553,
+                -0.73258012533188,
+                -90
+            ],
+            "scale": 0.9998902082443237,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2796.2106933594,
+                422.04742431641,
+                14599.404296875
+            ],
+            "ypr": [
+                -136.94145202637,
+                -0.71558386087418,
+                -90
+            ],
+            "scale": 0.999876856803894,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2803.0173339844,
+                422.04742431641,
+                14609.579101562
+            ],
+            "ypr": [
+                -152.98425292969,
+                -0.70351576805115,
+                -90
+            ],
+            "scale": 0.9998668432235718,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2806.4450683594,
+                422.04742431641,
+                14621.177734375
+            ],
+            "ypr": [
+                -173.61070251465,
+                -0.6895654797554,
+                -90
+            ],
+            "scale": 0.9998577237129211,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2804.7531738281,
+                423.44750976562,
+                14632.682617188
+            ],
+            "ypr": [
+                157.87789916992,
+                -0.6248973608017,
+                -90
+            ],
+            "scale": 0.9998149871826172,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2797.1945800781,
+                424.94760131836,
+                14642.192382812
+            ],
+            "ypr": [
+                127.79260253906,
+                -0.58777689933777,
+                -90
+            ],
+            "scale": 0.999793529510498,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2785.7102050781,
+                425.69332885742,
+                14648.25390625
+            ],
+            "ypr": [
+                109.60025024414,
+                -0.57211130857468,
+                -90
+            ],
+            "scale": 0.9997844696044922,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2773.5837402344,
+                427.39343261719,
+                14650.73828125
+            ],
+            "ypr": [
+                90.692207336426,
+                -0.55561310052872,
+                -90
+            ],
+            "scale": 0.9997763633728027,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Mil_CamoNet_Tent2",
+            "pos": [
+                2765.8762207031,
+                428.49349975586,
+                14649.288085938
+            ],
+            "ypr": [
+                72.500381469727,
+                -0.53962767124176,
+                -90
+            ],
+            "scale": 0.9997681379318237,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2739.8652349999975,
+                431.99667327148,
+                14740.046874688001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2721.8415533593975,
+                424.00534026367,
+                14632.216796562001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_larixdecidua_1f_summer.p3d",
+            "pos": [
+                2713.2185058594,
+                424.13461271289,
+                14645.568359438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2699.8503416719027,
+                415.69499230663996,
+                14574.494141
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2770.1933592500027,
+                406.03315758984,
+                14527.679687875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2743.4687506249975,
+                431.09661833984,
+                14740.445312188001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2800.1437989530973,
+                422.88416995508,
+                14738.542968812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2789.1330567655973,
+                422.88416995508,
+                14771.314453188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2775.0192872343973,
+                422.88416995508,
+                14776.394531312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2738.9084473905973,
+                432.97456302148,
+                14781.884765688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2716.7314454374973,
+                435.89384402734004,
+                14794.960937562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2750.6577149687973,
+                429.82267703516004,
+                14738.167968812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2717.9765626249973,
+                421.57646121484004,
+                14618.89355475
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2721.0051270780973,
+                416.82240237695,
+                14584.513671938
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2714.1850584688027,
+                411.49873376172,
+                14562.994141
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2736.7658692655973,
+                414.80351199609004,
+                14567.742187562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2708.0761719999973,
+                413.33348025781004,
+                14539.271484438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2791.1918944062027,
+                417.47157311719,
+                14666.210937875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_caraganaarborescens_2s_summer.p3d",
+            "pos": [
+                2779.8322758906,
+                424.86474550977,
+                14717.267577749999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2838.7026367188,
+                399.54892047069995,
+                14558.349610188001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_sorbus_2s_summer.p3d",
+            "pos": [
+                2853.4672851562,
+                402.90089421484004,
+                14604.720702625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_2s_summer.p3d",
+            "pos": [
+                2760.3266595312025,
+                397.96363805273,
+                14519.377929688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_2s_summer.p3d",
+            "pos": [
+                2755.4838860938025,
+                397.39402745703,
+                14512.040039062
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2784.6965333280973,
+                406.31849612695,
+                14528.051757875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2803.2062987031027,
+                401.36305260938,
+                14524.420898811999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2812.7910157499973,
+                403.21467532617,
+                14532.900390688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2797.5087896874975,
+                403.68539397461,
+                14514.819335625001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_larixdecidua_1f_summer.p3d",
+            "pos": [
+                2799.2229003906,
+                400.23474088672003,
+                14502.00292975
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2830.2263184843973,
+                399.02247561914,
+                14512.35449225
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2827.7285157499973,
+                404.28459109766004,
+                14550.540039125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2820.1186523438,
+                406.93728716991995,
+                14601.978516438001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2788.3447265625,
+                405.87353594922,
+                14573.118164875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_2s_summer.p3d",
+            "pos": [
+                2768.2758787812027,
+                411.30049157422,
+                14577.30273475
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2750.4213868437973,
+                415.32237185938004,
+                14587.008789125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2808.9350587187973,
+                407.74436892969004,
+                14565.332031312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_fagussylvatica_1fc_summer.p3d",
+            "pos": [
+                2804.6906732031025,
+                401.73689269530996,
+                14647.442383062
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2673.5891107031025,
+                411.36582898047004,
+                14566.22558625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2734.0090325781025,
+                411.93714856055,
+                14617.004883125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2770.7092278906025,
+                404.58631848242,
+                14559.372070625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2776.0292962500025,
+                400.63725232031004,
+                14519.166015938
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2820.7685540625025,
+                402.89085339453004,
+                14581.355469062
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2805.8266602811973,
+                401.98673953516004,
+                14580.820312562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2839.9370118437973,
+                406.44255008203004,
+                14590.158203188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2832.4411622343973,
+                409.06928958398,
+                14613.033203188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2821.3581536719025,
+                408.82151745703004,
+                14649.086914375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\bush\\b_phragmitesaustralis_summer.p3d",
+            "pos": [
+                2828.8698736718975,
+                411.69174163086,
+                14630.333007500001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2832.0146485624973,
+                410.65748538477,
+                14651.269531312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2807.2307130155973,
+                419.14454593164,
+                14692.950195375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2780.1513673124973,
+                423.51969851953004,
+                14707.177734438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2755.9440919218973,
+                426.29640140039,
+                14701.192382875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2744.8417969999973,
+                424.7627710293,
+                14676.892578188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2761.5053710938,
+                422.95861895703,
+                14684.917969562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2726.6171875,
+                429.23324664257996,
+                14709.042969562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2735.2165528593973,
+                422.39677371484004,
+                14645.132812562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2730.6186524687973,
+                420.66786136133,
+                14628.052734438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999990463256836,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2723.8940430937973,
+                419.8389429043,
+                14606.347656312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2777.2009278593973,
+                412.35798587305,
+                14577.093750062
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2796.3469232031025,
+                413.31758068945,
+                14659.310547188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999994039535522,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_fagussylvatica_2sb_trail_g.p3d",
+            "pos": [
+                2775.2563470312025,
+                416.41557263281004,
+                14667.458984688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_juglansregia_2s_summer.p3d",
+            "pos": [
+                2758.2028808594,
+                418.47842486522995,
+                14658.3779305
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2743.9746094999973,
+                423.04707278711,
+                14655.80761725
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2764.8769532499973,
+                421.79130496484004,
+                14668.340820375
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999988675117493,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2819.2934571561973,
+                412.53700198633,
+                14629.416015688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2816.6677247343973,
+                413.78178348047004,
+                14636.808593812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2827.7775880155973,
+                413.89717044336,
+                14659.394531312
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999986290931702,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2809.9265137968973,
+                416.07923831445,
+                14653.367187562
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants_bliss\\tree\\t_piceaabies_3s_summer.p3d",
+            "pos": [
+                2798.5329591093973,
+                419.22801150781004,
+                14677.574218812
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [
+                2785.7966308594,
+                427.13925170898,
+                14638.236328125
+            ],
+            "ypr": [
+                85.370567321777,
+                0,
+                0
+            ],
+            "scale": 0.9999580383300781,
+            "enableCEPersistency": 0
+        }
+    ]
+}

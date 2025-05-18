@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Decal_Runway_Line_2x30",
+            "pos": [
+                12120.2373046875,
+                140.0001220703125,
+                12518.7236328125
+            ],
+            "ypr": [
+                111.59996795654297,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_oilstain1",
+            "pos": [
+                12123.09765625,
+                140.00006103515626,
+                12525.5771484375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
