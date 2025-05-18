@@ -1625,11 +1625,11 @@
         <nominal>8</nominal>
         <min>8</min>
         <max>8</max>
-        <lifetime>3600</lifetime>
+        <lifetime>300</lifetime>
         <restock>0</restock>
-        <saferadius>25</saferadius>
-        <distanceradius>10</distanceradius>
-        <cleanupradius>25</cleanupradius>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
