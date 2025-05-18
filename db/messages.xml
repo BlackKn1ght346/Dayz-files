@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+
+<!-- 1) following message will be displayed 1 minute after player connects. -->
+
+    <message>
+        <onconnect>1</onconnect>
+        <text> 
+            Welcome to #name.
+        </text>
+    </message>
+	
+	<message>
+        <onconnect>1</onconnect>
+        <text> 
+            Please join our discord to take advantage of our economy.
+        </text>
+    </message>
+	
+	<message>
+        <onconnect>1</onconnect>
+        <text> 
+            Linking your account is required. https://discord.gg/exodusdayz
+        </text>
+    </message>
+ 
+	
+<!-- 2) following message will be displayed every hour and 5 minutes after player connects. -->
+
+	<message>
+	    <repeat>60</repeat>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text> 
+            Join our Discord to get awesome Perks, Updates, Events, and Giveaways! https://discord.gg/exodusdayz 
+        </text>
+    </message>
+
+    <message>
+        <repeat>60</repeat>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text>
+            First time joining Exodus Discord? Get 750 credits. 
+        </text>
+    </message>
+    
+    <message>
+        <repeat>60</repeat>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Use credits for the 24/7 player controlled shop!
+        </text>
+    </message>
+    
+	
+<!-- 3) following message will be displayed every 80 minutes and 20 minutes after player connects. -->
+   
+    <message>
+        <repeat>80</repeat>
+        <delay>20</delay>
+        <onconnect>1</onconnect>
+        <text> 
+            Trader/SafeZone is at Devils Castle x:69 y:39 
+        </text>
+    </message>
+
+    <message>
+        <repeat>80</repeat>
+        <delay>20</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Join https://discord.gg/exodusdayz and go to the Trader-info Channel for more information!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>80</repeat>
+        <delay>20</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Check out the info channel, for knowledge of how to use our discord.
+        </text>
+    </message>
+	
+<!-- 4) following message will be displayed every 100 minutes and 40 minutes after player connects. -->
+ 	
+	<message>
+        <repeat>100</repeat>
+        <delay>40</delay>
+        <onconnect>1</onconnect>
+        <text> 
+            Want to start or join a Faction? Check out our Factions channel!!!! 
+        </text>
+    </message>
+
+    <message>
+        <repeat>100</repeat>
+        <delay>40</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Need Transportation? We have Vehicle-rental!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>100</repeat>
+        <delay>40</delay>
+        <onconnect>1</onconnect>
+        <text>
+            If you are having issues, Join https://discord.gg/exodusdayz and lets us know!!!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>68</repeat>
+        <delay>68</delay>
+        <onconnect>1</onconnect>
+        <text>
+            #name will be restarting in 30 minutes!!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>83</repeat>
+        <delay>83</delay>
+        <onconnect>1</onconnect>
+        <text>
+            #name will be restarting in 15 minutes!!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>88</repeat>
+        <delay>88</delay>
+        <onconnect>1</onconnect>
+        <text>
+            #name will be restarting in 10 minutes!!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>93</repeat>
+        <delay>93</delay>
+        <onconnect>1</onconnect>
+        <text>
+            #name will be restarting in 5 minutes!!!!
+        </text>
+    </message>
+    
+    <message>
+        <repeat>97</repeat>
+        <delay>97</delay>
+        <onconnect>1</onconnect>
+        <text>
+            #name will be restarting in 1 minutes!!!!
+        </text>
+    </message>
+    
+    
+</messages>   
