@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>65.0</min_dist_player>
+            <max_dist_player>150.0</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>1</grid_density>
+            <grid_width>1.0</grid_width>
+            <grid_height>1.0</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <generator_posbubbles>
+                <pos x="12444.70" z="12405.82" />	
+        </generator_posbubbles>
+    </fresh>
+    <hop>
+        <generator_posbubbles>
+        </generator_posbubbles>
+    </hop>
+    <travel>
+        <generator_posbubbles>
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>
+
+
+

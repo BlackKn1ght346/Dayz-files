@@ -1,0 +1,774 @@
+{
+  "Areas": [
+    {
+      "AreaName": "Ship-SW",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          13684,
+          0,
+          11073
+        ],
+        "Radius": 100,
+        "PosHeight": 22,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+     {     "AreaName": "Spawn-at-sea-death", 
+            "Type": "ContaminatedArea_Static", 
+            "TriggerType": "ContaminatedTrigger",
+            "Data": { 
+                "Pos": [ 0, -8, 0 ],
+                "Radius": 100,
+                "PosHeight": 22,
+                "NegHeight": 10,
+                "InnerRingCount": 1,
+                "InnerPartDist": 50,
+                "OuterRingToggle": 1, 
+                "OuterPartDist": 50, 
+                "OuterOffset": 0, 
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+                },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+    {
+      "AreaName": "Ship-NE",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          13881,
+          0,
+          11172
+        ],
+        "Radius": 100,
+        "PosHeight": 26,
+        "NegHeight": 10,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 50,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "Ship-Central",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          13752,
+          0,
+          11164
+        ],
+        "Radius": 100,
+        "PosHeight": 22,
+        "NegHeight": 2,
+        "InnerRingCount": 1,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 60,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "Pavlovo-North",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          2043,
+          0,
+          3485
+        ],
+        "Radius": 150,
+        "PosHeight": 25,
+        "NegHeight": 20,
+        "InnerRingCount": 2,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "Pavlovo-South",
+      "Type": "ContaminatedArea_Static",
+      "TriggerType": "ContaminatedTrigger",
+      "Data": {
+        "Pos": [
+          2164,
+          0,
+          3335
+        ],
+        "Radius": 150,
+        "PosHeight": 11,
+        "NegHeight": 10,
+        "InnerRingCount": 2,
+        "InnerPartDist": 50,
+        "OuterRingToggle": 1,
+        "OuterPartDist": 40,
+        "OuterOffset": 0,
+        "VerticalLayers": 0,
+        "VerticalOffset": 0,
+        "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+      },
+      "PlayerData": {
+        "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+        "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+        "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_2e3ca136e6f44b31a736b35f35113acd",
+      "Type": "ZmbM_Santa",
+      "Data": {
+        "Pos": [
+          3710.2083,
+          0.0,
+          5979.2105
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_afb79a957b6d46f7b88511a17fbced07",
+      "Type": "Flag_Zenit",
+      "Data": {
+        "Pos": [
+          3710.2083,
+          0.0,
+          5979.2105
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_bb7599322ff64279bfe0e82924783125",
+      "Type": "ZmbM_Santa",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_c9ffd7072e36477787e71dd3ee1f9758",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_3276abc3073148a89149cbd94af792e3",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_7533af6232ba467c878f327effc00bcd",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_5d1c93a134174c8fb59fe059c32761f5",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_974cc21c9800408c9ecd2a852631d726",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_d04fa00332a841f6bf63450532837206",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_dccfbcf4527e4609ae251db0b4e50976",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_858883288a0c4d5c985af940c9e25719",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_72eb5cef508940baad0e5e3755e7518a",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_e72124ae31784692a0ae5423440bf2dc",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_9aa1b526cc9f40278f0dfde47cb5e181",
+      "Type": "ZmbM_Santa",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_ff315555e2f545c68b4b17b99ada9fcc",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_1c8afe711d1f42f88e12c24ecb26932f",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_e741d91e0f30477bbd63b47353ecd382",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_fcaee56e120643398b2838b0ef9d53ab",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_081ae11d3b594883a41eef0ecfcd9d68",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_1c8bad94bd514f9a8ab58d16c4e0b915",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_f1ed285610784cec9321a0cf49298c42",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_637f08a6fe844891b19b624fd5a59aa3",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_fbd9acc9fbb74699a1fdc6230e2febd5",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_3c9590d5eec345edb00c4e65462b4a16",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_c9bc7397a8a349bba0153c55088ee5a7",
+      "Type": "ZmbM_Santa",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_0d72b9d7792846a4985194e889a0247a",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_4c9da51f42344800b05c03e50282364d",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_8682beb1fb5d47909b0da91d43aec941",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_1cc16426cde84ac7889e676069140174",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_03338052a8d749ec94e0c6260dbde169",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_8817864b1b7347e58de71376bb58ca08",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_ab5ff1e7914c4a37a1f3b4fa76d4d268",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_65aaae2c129f4c228552387aec9df88e",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_7f0bd834b49241c09f8247d4d5c08b4f",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    },
+    {
+      "AreaName": "DPP_SHOP_792cda458dd24300bdf0449c3cd8bfa8",
+      "Type": "StartKitIV",
+      "Data": {
+        "Pos": [
+          3707.1615,
+          0.0,
+          5982.8761
+        ]
+      }
+    }
+  ],
+  "SafePositions": [
+    [
+      434,
+      13624
+    ],
+    [
+      360,
+      10986
+    ],
+    [
+      1412,
+      13505
+    ],
+    [
+      1290,
+      11773
+    ],
+    [
+      5742,
+      8568
+    ],
+    [
+      4191,
+      4620
+    ],
+    [
+      4949,
+      6569
+    ],
+    [
+      1018,
+      7138
+    ],
+    [
+      5041,
+      2640
+    ],
+    [
+      6895,
+      7915
+    ],
+    [
+      6128,
+      8120
+    ],
+    [
+      4422,
+      8117
+    ],
+    [
+      2811,
+      10209
+    ],
+    [
+      1954,
+      2417
+    ],
+    [
+      3633,
+      8708
+    ],
+    [
+      5222,
+      5737
+    ],
+    [
+      3546,
+      2630
+    ],
+    [
+      2373,
+      5516
+    ],
+    [
+      2462,
+      6879
+    ],
+    [
+      1653,
+      3600
+    ],
+    [
+      11774,
+      14570
+    ],
+    [
+      8228,
+      9345
+    ],
+    [
+      11100,
+      13400
+    ],
+    [
+      9333,
+      8697
+    ],
+    [
+      11513,
+      12203
+    ],
+    [
+      4955,
+      10603
+    ],
+    [
+      5090,
+      15054
+    ],
+    [
+      6513,
+      14579
+    ],
+    [
+      3483,
+      14941
+    ],
+    [
+      4016,
+      11194
+    ],
+    [
+      7607,
+      12384
+    ],
+    [
+      4307,
+      9528
+    ],
+    [
+      3266,
+      12352
+    ],
+    [
+      4432,
+      13285
+    ],
+    [
+      5473,
+      12455
+    ],
+    [
+      9731,
+      13685
+    ],
+    [
+      2745,
+      7784
+    ],
+    [
+      8492,
+      14128
+    ],
+    [
+      3501,
+      13292
+    ],
+    [
+      7912,
+      10943
+    ],
+    [
+      4165,
+      10134
+    ],
+    [
+      10536,
+      7871
+    ],
+    [
+      1467,
+      14288
+    ],
+    [
+      5479,
+      9709
+    ],
+    [
+      9453,
+      11963
+    ],
+    [
+      319,
+      9212
+    ],
+    [
+      8009,
+      14843
+    ],
+    [
+      7206,
+      7158
+    ],
+    [
+      12303,
+      13598
+    ],
+    [
+      3435,
+      5959
+    ],
+    [
+      4060,
+      12050
+    ],
+    [
+      6633,
+      2988
+    ],
+    [
+      870,
+      2095
+    ],
+    [
+      10286,
+      9071
+    ],
+    [
+      10371,
+      5690
+    ]
+  ]
+}

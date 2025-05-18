@@ -1,0 +1,158 @@
+{
+    "version": 122,
+    "GeneralData": {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": false,
+        "disableRespawnInUnconsciousness": true
+    },
+    "PlayerData": {
+        "disablePersonalLight": false,
+        "spawnGearPresetFiles": [
+            "./custom/spawnGearPresetEventLoadout9.json"
+        ],
+        "StaminaData": {
+            "sprintStaminaModifierErc": 0,
+            "sprintStaminaModifierCro": 0,
+            "staminaWeightLimitThreshold": 6000,
+            "staminaMax": 100,
+            "staminaKgToStaminaPercentPenalty": 0,
+            "staminaMinCap": 5,
+            "sprintSwimmingStaminaModifier": 0,
+            "sprintLadderStaminaModifier": 0,
+            "meleeStaminaModifier": 0,
+            "obstacleTraversalStaminaModifier": 0,
+            "holdBreathStaminaModifier": 0
+        },
+        "ShockHandlingData": {
+            "shockRefillSpeedConscious": 5,
+            "shockRefillSpeedUnconscious": 1,
+            "allowRefillSpeedModifier": true
+        },
+        "MovementData": {
+            "timeToStrafeJog": 0.1,
+            "rotationSpeedJog": 0.3,
+            "timeToSprint": 0.45,
+            "timeToStrafeSprint": 0.3,
+            "rotationSpeedSprint": 0.15,
+            "allowStaminaAffectInertia": true
+        },
+        "DrowningData": {
+            "staminaDepletionSpeed": 10,
+            "healthDepletionSpeed": 10,
+            "shockDepletionSpeed": 10
+        }
+    },
+    "WorldsData": {
+        "lightingConfig": 1,
+        "objectSpawnersArr": [
+            "./custom/Exodus.json",
+            "./custom/BasePrisonIslandBridge.json",
+            "./custom/SafezoneDevilsCastle.json",
+            "./custom/BaseStaff.json",
+            "./custom/OilRig.json",
+            "./custom/OilRigGunrack.json",
+            "./custom/PunchCards.json",
+            "./custom/BaseYellow.json",
+            "./custom/BaseGreen.json",
+            "./custom/BaseBlue.json",
+            "./custom/BaseMy40sTucked.json",
+            "./custom/BaseBschmit09.json",
+            "./custom/BaseJbug.json",
+            "./custom/EventConstructionDM.json",
+            "./custom/EventKraznoMaze.json",
+            "./custom/newbunker.json",
+            "./custom/BaseRampage.json"
+        ],
+        "environmentMinTemps": [
+            -3,
+            -2,
+            0,
+            4,
+            9,
+            14,
+            18,
+            17,
+            12,
+            7,
+            4,
+            0
+        ],
+        "environmentMaxTemps": [
+            3,
+            5,
+            7,
+            14,
+            19,
+            24,
+            26,
+            25,
+            21,
+            16,
+            10,
+            5
+        ],
+        "wetnessWeightModifiers": [
+            1,
+            1,
+            1.33,
+            1.66,
+            2
+        ],
+        "playerRestrictedAreaFiles": [
+            "./custom/TeleportPrison.json",
+            "./custom/TeleportStaffBase.json",
+            "./custom/TeleportConstructionDM.json",
+            "./custom/TeleportContainersDM.json",
+            "./custom/TeleportBaseBlue.json",
+            "./custom/TeleportBaseYellow.json"
+        ]
+    },
+    "BaseBuildingData": {
+        "HologramData": {
+            "disableColdAreaPlacementCheck": true,
+            "disableIsCollidingBBoxCheck": true,
+            "disableIsCollidingPlayerCheck": true,
+            "disableIsClippingRoofCheck": true,
+            "disableIsBaseViableCheck": true,
+            "disableIsCollidingGPlotCheck": true,
+            "disableIsCollidingAngleCheck": true,
+            "disableIsPlacementPermittedCheck": true,
+            "disableHeightPlacementCheck": true,
+            "disableIsUnderwaterCheck": true,
+            "disableIsInTerrainCheck": true,
+            "disallowedTypesInUnderground": [
+                "FenceKit",
+                "TerritoryFlagKit",
+                "WatchtowerKit"
+            ]
+        },
+        "ConstructionData": {
+            "disablePerformRoofCheck": true,
+            "disableIsCollidingCheck": true,
+            "disableDistanceCheck": true
+        }
+    },
+    "UIData": {
+        "use3DMap": false,
+        "HitIndicationData": {
+            "hitDirectionOverrideEnabled": false,
+            "hitDirectionBehaviour": 1,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 2,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 10,
+            "hitIndicationPostProcessEnabled": true
+        }
+    },
+    "MapData": {
+        "ignoreMapOwnership": true,
+        "ignoreNavItemsOwnership": true,
+        "displayPlayerPosition": true,
+        "displayNavInfo": true
+    },
+    "VehicleData": {
+        "boatDecayMultiplier": 1
+    }
+}
