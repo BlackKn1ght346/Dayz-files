@@ -65,6 +65,7 @@
           ],
           "simpleChildrenUseDefaultAttributes": false,
           "simpleChildrenTypes": [
+            "AK_Suppressor",
             "AK_PlasticBttstck",
             "AK_PlasticHndgrd"
           ]
@@ -454,8 +455,8 @@
         "Mag_AKM_30Rnd",
         "Mag_AKM_30Rnd",
         "Mag_AKM_30Rnd",
-		"Mag_AKM_30Rnd",
-		"Mag_AKM_30Rnd",
+		    "Mag_AKM_30Rnd",
+		    "Mag_AKM_30Rnd",
         "Mag_Deagle_9rnd",
         "Mag_Deagle_9rnd",
         "Mag_Deagle_9rnd",
@@ -463,6 +464,7 @@
         "Mag_Deagle_9rnd",
         "Mag_Deagle_9rnd",
         "PainkillerTablets",
+        "AK_Suppressor",
         "Pajka",
         "Pajka",
         "Pajka",
