@@ -18794,7 +18794,7 @@
 			<proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.361628 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Ammo_12gaSlugs" pos="0.941772 -0.361628 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Ammo_12gaSlug" pos="0.941772 -0.361628 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
 			<proxy type="MP133Shotgun" pos="0.393921 -0.883638 1.539062" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
