@@ -18791,28 +18791,28 @@
 		<container name="lootFloor">
 		</container>
 		<dispatch dechance="1.000000">
-			<proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.361628 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.214284 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Ammo_12gaSlugs" pos="0.941772 -0.361628 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Ammo_12gaSlug" pos="0.941772 -0.335824 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="MP133Shotgun" pos="0.393921 -0.883638 1.539062" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="MP133Shotgun" pos="0.388838 -0.797625 1.695302" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="WeaponCleaningKit" pos="0.314819 -0.883638 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="WeaponCleaningKit" pos="0.314819 -0.725074 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="AK_Suppressor" pos="0.959351 -0.361628 0.047363" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="AK_Suppressor" pos="0.959351 -0.230739 0.047363" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="PistolSuppressor" pos="0.266235 -0.883638 0.025391" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="PistolSuppressor" pos="0.266235 -0.770699 0.025391" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Mag_AKM_30Rnd" pos="-0.274686 -0.883638 0.721406" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Mag_AKM_30Rnd" pos="-0.434479 -0.787895 0.688980" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Mag_Deagle_9rnd" pos="-0.382424 -0.883638 -0.624845" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Mag_Deagle_9rnd" pos="-0.338647 -0.722848 -0.708856" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
 </prototype>
