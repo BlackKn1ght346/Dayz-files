@@ -18791,7 +18791,6 @@
 		<container name="lootFloor">
 		</container>
 		<dispatch dechance="1.000000">
-<<<<<<< HEAD
 			<proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.214284 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
@@ -18814,30 +18813,6 @@
 		</dispatch>
 		<dispatch dechance="1.000000">
 			<proxy type="Mag_Deagle_9rnd" pos="-0.338647 -0.722848 -0.708856" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-=======
-			<proxy type="Mag_AKM_30Rnd" pos="0.902749 -0.329841 0.776570" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Ammo_12gaSlug" pos="0.941772 -0.334328 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="MP133Shotgun" pos="0.393921 -0.833900 1.539062" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="WeaponCleaningKit" pos="0.314819 -0.786405 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="AK_Suppressor" pos="0.963437 -0.327597 0.088296" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="PistolSuppressor" pos="0.266235 -0.851850 0.025391" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Mag_AKM_30Rnd" pos="-0.474873 -0.851850 -0.729629" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Mag_Deagle_9rnd" pos="-0.388044 -0.815949 0.480634" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
->>>>>>> c1df84664bf43b07fc04e6127becbb03f262652a
 		</dispatch>
 	</group>
 </prototype>
