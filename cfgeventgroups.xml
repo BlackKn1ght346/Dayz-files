@@ -1542,32 +1542,32 @@
 	    <child type="ZmbM_ParamedicNormal_Red" spawnsecondary="false" x="33.0664" z="-54.0469" y="-0.1377" a="0"/>
 	    <child type="ZmbM_Mummy" spawnsecondary="false" x="79.7021" z="-22.4063" y="-0.1377" a="0"/>
     </group>
-    <!--<pos x="12257.013672" z="12679.673828" a="0" y="141.011108" group="MazeZ1Loot1"/>-->
-    <group name="MazeZ1Loot1">
+    <!--<pos x="12257.013672" z="12679.673828" a="0" y="141.011108" group="EastZ1Loot1"/>-->
+    <group name="EastZ1Loot1">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.05504"/>
     </group>
-    <!--<pos x="12189.249023" z="12621.870117" a="0" y="141.011108" group="MazeZ1Loot2"/>-->
-    <group name="MazeZ1Loot2">
+    <!--<pos x="12189.249023" z="12621.870117" a="0" y="141.011108" group="SouthEastZ1Loot2"/>-->
+    <group name="SouthEastZ1Loot2">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.05504"/>
     </group>
-    <!--<pos x="12130.582031" z="12498.847656" a="0" y="141.011108" group="MazeZ2Loot3"/>-->
-    <group name="MazeZ2Loot3">
+    <!--<pos x="12130.582031" z="12498.847656" a="0" y="141.011108" group="SouthWestZ2Loot3"/>-->
+    <group name="SouthWestZ2Loot3">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="238.57103"/>
     </group>
-    <!--<pos x="12041.195313" z="12569.369141" a="0" y="141.011108" group="MazeZ2Loot4"/>-->
-    <group name="MazeZ2Loot4">
+    <!--<pos x="12041.195313" z="12569.369141" a="0" y="141.011108" group="WestZ2Loot4"/>-->
+    <group name="WestZ2Loot4">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="238.57103"/>
     </group>
-    <!--<pos x="12149.032227" z="12728.996094" a="0" y="141.011139" group="MazeZ3Loot5"/>-->
-    <group name="MazeZ3Loot5">
+    <!--<pos x="12149.032227" z="12728.996094" a="0" y="141.011139" group="NorthWestZ3Loot5"/>-->
+    <group name="NorthWestZ3Loot5">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.05504"/>
     </group>
-    <!--<pos x="12141.674805" z="12827.321289" a="0" y="141.011124" group="MazeZ3Loot6"/>-->
-    <group name="MazeZ3Loot6">
+    <!--<pos x="12141.674805" z="12827.321289" a="0" y="141.011124" group="NorthZ3Loot6"/>-->
+    <group name="NorthZ3Loot6">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.687269"/>
     </group>
-    <!--<pos x="12088.608398" z="12654.053711" a="0" y="141.011108" group="MazeZ4Loot7"/>-->
-    <group name="MazeZ4Loot7">
+    <!--<pos x="12088.608398" z="12654.053711" a="0" y="141.011108" group="NorthEastZ4Loot7"/>-->
+    <group name="NorthEastZ4Loot7">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.05504"/>
     </group>
     <!--<pos x="11998.124023" z="12678.057617" a="0" y="141.011124" group="MazeZ4Loot8"/>-->
