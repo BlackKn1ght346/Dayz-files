@@ -113,7 +113,18 @@
             If you are having issues, Join https://discord.gg/exodusdayz and lets us know!!!!!
         </text>
     </message>
-    
+<!-- 5) following messages will be display the Server Restart warnings 30m, 15m, 10m, 5m, and 1m pior to restart. -->
+
+   <message>
+		<deadline>100</deadline>
+		<countdown>1</countdown>
+		<text>
+            #name will be restarting in #tmin minutes.
+        </text>
+	</message>
+
+
+<!--
     <message>
         <repeat>68</repeat>
         <delay>68</delay>
@@ -158,6 +169,6 @@
             #name will be restarting in 1 minutes!!!!
         </text>
     </message>
+-->    
     
-    
-</messages>   
+</messages>
