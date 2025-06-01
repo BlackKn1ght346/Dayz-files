@@ -17,14 +17,14 @@
         <file path="env/hare_territories.xml" />
         <file path="env/fox_territories.xml" />
                         <!--added-->
-         <file path="custom/bearmazez1_territories.xml" />
-         <file path="custom/wolfmazez1_territories.xml" />
-		 <file path="custom/bearmazez2_territories.xml" />
-         <file path="custom/wolfmazez2_territories.xml" />
-		 <file path="custom/bearmazez3_territories.xml" />
-         <file path="custom/wolfmazez3_territories.xml" />
-		 <file path="custom/bearmazez4_territories.xml" />
-         <file path="custom/wolfmazez4_territories.xml" />
+        <file path="custom/bearmazez1_territories.xml" />
+        <file path="custom/wolfmazez1_territories.xml" />
+		<file path="custom/bearmazez2_territories.xml" />
+        <file path="custom/wolfmazez2_territories.xml" />
+		<file path="custom/bearmazez3_territories.xml" />
+        <file path="custom/wolfmazez3_territories.xml" />
+		<file path="custom/bearmazez4_territories.xml" />
+        <file path="custom/wolfmazez4_territories.xml" />
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
