@@ -13577,6 +13577,7 @@
 			<point pos="1.259521 -0.537098 -1.384521" range="0.177002" height="0.442505" />
 		</container>
 	</group>
+<!--
 	<group name="Land_BusStop_Village2" lootmax="6">
 		    <usage name="Military"/>
 			<usage name="Medic"/>
@@ -13596,6 +13597,7 @@
 			<point pos="0.266235 -0.883638 0.025391" range="0.646644" height="0.490490" />
 		</container>
 	</group>
+-->
 	<group name="Land_Castle_Bastion2">
 		<usage name="Hunting" />
 		<usage name="Village" />
@@ -18742,7 +18744,7 @@
 	</group>
 	<!--Boxing-->
 	<group name="StaticObj_Furniture_table_umakart" lootmax="6">
-		<container name="lootFloor">
+		<container name="lootFloor" lootmax="6">
 		</container>
 		<dispatch dechance="1.000000">
 			<proxy type="SodaCan_Pipsi" pos="0.961696 0.522276 0.262230"
@@ -18786,7 +18788,7 @@
         <container name="lootFloor" lootmax="2">
         </container>
     </group>
-	<!--Maze Loot-->
+<!--Maze Loot-->
 	<group name="Land_BusStop_Village2" lootmax="8">
 		<container name="lootFloor" lootmax="8">
 		</container>
@@ -18815,4 +18817,57 @@
 			<proxy type="Mag_Deagle_9rnd" pos="-0.434479 -0.787895 0.688980" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
+	<group name="Land_Underground_Storage_Ammo2" lootmax="10">
+	    <usage name="Industrial" />
+	    <usage name="Farm" />
+	    <usage name="Military" />
+	    <value name="Tier4" />
+	    <container name="lootFloor" lootmax="10">
+	        <category name="weapons" />
+		    <category name="tools" />
+		    <tag name="floor" />
+		    <tag name="ground" />
+		    <tag name="shelves" />
+		    <point pos="-7.323690 1.137003 -4.608829" range="1" height="1" /> 
+		    <point pos="-5.706453 0.452388 0.757069" range="1" height="1" /> 
+		    <point pos="-1.700619 1.730650 3.370728" range="1" height="1" /> 
+		    <point pos="0.555707 1.210278 -1.685393" range="1" height="1" /> 
+		    <point pos="0.493921 1.501981 -3.779097" range="1" height="1" /> 
+		    <point pos="-2.078280 0.012780 -2.808037" range="1" height="1" /> 
+		    <point pos="3.022546 1.194309 1.026305" range="1" height="1" /> 
+		    <point pos="9.132736 0.012778 -2.120053" range="1" height="1" /> 
+		    <point pos="-8.145402 0.363090 0.886296" range="1" height="1" /> 
+		    <point pos="-7.639012 0.959005 -2.860245" range="1" height="1" /> 
+	    </container>
+    </group>
+    <group name="Land_Underground_Storage_Hospital" lootmax="16">
+        <usage name="Military" />
+        <usage name="Medic" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="16">
+            <category name="tools" />
+            <category name="weapons" />
+            <category name="explosives" />
+            <tag name="floor" />
+            <tag name="shelves" />
+            <tag name="ground" />
+            <point pos="-5.768554 1.023896 -2.899414" range="0.4500" height="1.5000" />
+            <point pos="-9.375976 1.023896 -2.931641" range="0.4500" height="1.5000" />
+            <point pos="-6.696289 0.012787 2.734375" range="0.4500" height="1.5000" />
+            <point pos="-1.859375 1.025284 -3.283203" range="0.4500" height="1.5000" />
+            <point pos="2.468750 0.726563 -0.345703" range="0.4500" height="1.5000" />
+            <point pos="1.288086 0.012772 5.029297" range="0.4500" height="1.5000" />
+            <point pos="6.259766 0.012772 4.552734" range="0.4500" height="1.5000" />
+            <point pos="9.493164 1.023896 -0.281250" range="0.4500" height="1.5000" />
+            <point pos="6.794922 0.726563 -4.130860" range="0.4500" height="1.5000" />
+            <point pos="3.882813 1.016510 2.208007" range="0.4500" height="1.5000" />
+            <point pos="4.707031 0.726563 3.056640" range="0.4500" height="1.5000" />
+            <point pos="-2.041992 0.718491 -4.034180" range="0.4500" height="1.5000" />
+            <point pos="9.720703 0.479996 -1.446289" range="0.4500" height="1.5000" />
+            <point pos="9.784180 0.860001 -2.877930" range="0.4500" height="1.5000" />
+            <point pos="9.709961 0.104996 -3.653321" range="0.4500" height="1.5000" />
+            <point pos="9.810547 1.240006 -2.115235" range="0.4500" height="1.5000" />
+        </container>
+    </group>
 </prototype>
