@@ -1614,5 +1614,10 @@
         <pos x="12088.608398" z="12654.053711" a="0" y="141.011108" group="NorthEastZ4Loot7"/>
         <pos x="11998.124023" z="12678.057617" a="0" y="141.011124" group="MazeZ4Loot8"/>
     </event>
-      
+    <event name="Statichumveespawn">
+        <pos x="13261.01" z="11727.06" a="0" />
+    </event>
+    <event name="StaticADAspawn">
+        <pos x="13263.20" z="11740.91" a="0" /> 
+    </event>
 </eventposdef>
