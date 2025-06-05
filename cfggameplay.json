@@ -41,6 +41,11 @@
             "staminaDepletionSpeed": 10,
             "healthDepletionSpeed": 10,
             "shockDepletionSpeed": 10
+        },
+		"WeaponObstructionData":
+		{
+			"staticMode": 1,
+			"dynamicMode": 1
         }
     },
     "WorldsData": {
@@ -62,6 +67,7 @@
             "./custom/EventConstructionDM.json",
             "./custom/EventKraznoMaze.json",
             "./custom/newbunker.json",
+            "./custom/testingbunkerloot.json",
             "./custom/BaseRampage.json"
         ],
         "environmentMinTemps": [
