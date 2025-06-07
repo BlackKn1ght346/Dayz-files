@@ -2593,10 +2593,8 @@
 	<type name="VSS">
 		<attachments chance="1.0">
 			<item name="KashtanOptic" chance="0.50" />
-			<item name="PSO1Optic" chance="0.50" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="PSO11Optic" chance="1.00" />
+			<item name="PSO1Optic" chance="0.30" />
+			<item name="PSO11Optic" chance="0.20" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
