@@ -414,8 +414,8 @@
 	</type>
 	<type name="Bear_Pink">
 		<cargo chance="0.00">
-			<item name="Paper" chance="0.50" />
-			<item name="Rag" chance="0.50" />
+			<item name="CannabisSeedsPack" chance="0.20" />
+			<item name="Rag" chance="0.80" />
 		</cargo>
 	</type>
 	<type name="Bear_White">
@@ -2667,6 +2667,9 @@
 			<item name="PSO11Optic" chance="0.20" />
 		</attachments>
 		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
 			<item name="AK_Suppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
@@ -2729,6 +2732,9 @@
 		<attachments chance="1.0">
 			<item name="KashtanOptic" chance="0.80" />
 			<item name="PSO11Optic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
@@ -2839,6 +2845,9 @@
 		<attachments chance="1.0">
 			<item name="KashtanOptic" chance="0.80" />
 			<item name="PSO11Optic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Colt1911">
@@ -2999,6 +3008,9 @@
 		</attachments>
 		<attachments chance="0.30">
 			<item name="ReflexOptic" chance="0.30" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="M14">
@@ -4609,8 +4621,33 @@
         <attachments>
             <item name="Battery9V" />
         </attachments>
-    </type>	
-	<type name="PowerGenerator">
+    </type>
+    <type name="MK4Optic_Black">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>
+    <type name="MK4Optic_Green">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>
+    <type name="MK4Optic_Tan">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>
+    <type name="PSO6Optic">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>
+    <type name="SportingOptic">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>
+    <type name="PowerGenerator">
         <attachments>
             <item name="SparkPlug" />
         </attachments>
@@ -6453,19 +6490,6 @@
         <attachments chance="1.0">
             <item name="SparkPlug" chance="1.0" />
         </attachments>
-    </type>
-    <type name="Shrimp">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="food"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>	
 	<!-- 1.27-->
 	<type name="SVD_Wooden">
@@ -6475,7 +6499,11 @@
 		<attachments chance="1.0">
 			<item name="KashtanOptic" chance="0.80" />
 			<item name="PSO11Optic" chance="0.20" />
+			<item name="PSO6Optic" chance="0.20" />
 		</attachments>
+		<attachments chance="1.0">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
 	</type>	
     <type name="FilteringBottle">
         <damage min="0.1" max="0.1" />
