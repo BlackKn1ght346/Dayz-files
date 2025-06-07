@@ -6333,6 +6333,9 @@
             <item name="ACOGOptic" chance="0.25" />
             <item name="ACOGOptic_6x" chance="0.15" />
         </attachments>
+	<attachments chance="1.0">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>
         <attachments chance="1.0">
             <item name="Mag_SV98_10Rnd" chance="1.0" />
         </attachments>
