@@ -18799,7 +18799,7 @@
 			<proxy type="Ammo_12gaSlug" pos="0.941772 -0.335824 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="MP133Shotgun" pos="0.388838 -0.797625 1.695302" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="R12" pos="0.388838 -0.797625 1.695302" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
 			<proxy type="WeaponCleaningKit" pos="0.314819 -0.725074 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
