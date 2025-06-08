@@ -2994,8 +2994,7 @@
 		</attachments>
 	</type>
 	<type name="PM73Rak">
-		
-		<attachments chance="0.30">
+		<attachments chance="1.0">
 			<item name="Mag_PM73_15Rnd" chance="0.80" />
 			<item name="Mag_PM73_25Rnd" chance="0.20" />
 		</attachments>
