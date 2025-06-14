@@ -2424,9 +2424,9 @@
 		<!--<cargo preset="drinks_custom" />-->
 		<!--<cargo preset="food_custom" />-->
 		<!--<cargo preset="toolsVillage" />-->
-		<cargo preset="BigFoot_Custom" />
-		<attachments preset="BigFoot_Hood" />
-		<attachments preset="BigFoot_Suit" />
+		<cargo preset="toolsCommon_T15" />
+		<attachments preset="helmetsCommon_T15" />
+		<attachments preset="backpacks_T15" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Red">
 		<!--<cargo preset="drinks_T1" />-->
@@ -2435,7 +2435,7 @@
 		<cargo preset="food_custom" />
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="helmetsCommon_T1" />
-		<attachments preset="backpacks_T1" />
+		<attachments preset="" />
 	</type>
 	<type name="ZmbM_VillagerOld_Blue">
 		<!--<cargo preset="foodVillage" />-->
