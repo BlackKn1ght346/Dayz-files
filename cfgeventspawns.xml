@@ -1623,4 +1623,8 @@
     <event name="StaticADAspawn">
     <pos x="13555.31" z="11804.58" a="0" /> 
     </event>
+	<event name="InfectedBigFoot">
+	<zone smin="0" smax="0" dmin="1" dmax="1" r="300" />
+        <pos x="4792.41" z="8712.85" a="0.0" />
+    </event>
 </eventposdef>
