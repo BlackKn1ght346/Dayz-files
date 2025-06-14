@@ -2435,7 +2435,7 @@
 		<cargo preset="food_custom" />
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="helmetsCommon_T1" />
-		<attachments preset="" />
+		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_VillagerOld_Blue">
 		<!--<cargo preset="foodVillage" />-->
