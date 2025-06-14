@@ -1698,7 +1698,7 @@
         <cleanupradius>500</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>player</position>
-        <limit>custom</limit>
+        <limit>child</limit>
         <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="1" min="1" type="ZmbM_JoggerSkinny_Green" />
