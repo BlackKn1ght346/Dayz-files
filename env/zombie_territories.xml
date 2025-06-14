@@ -3,7 +3,7 @@
     <territory color="1289674462">
         <zone name="InfectedHorde" smin="0" smax="0" dmin="30" dmax="30" x="4213.04" z="7924.35" r="75"/>
         <zone name="InfectedMummy" smin="0" smax="0" dmin="9" dmax="10" x="4308" z="7745.90" r="10"/>
-        <zone name="InfectedBigFoot" smin="0" smax="0" dmin="9" dmax="10" x="4308" z="7745.90" r="300"/>
+        <zone name="InfectedBigFoot" smin="0" smax="0" dmin="1" dmax="1" x="4792.41" z="8712.85" r="300"/> 
     </territory>
     <territory color="1794965508">
         <zone name="InfectedPolice" smin="0" smax="0" dmin="3" dmax="5" x="6636.79" z="2578.75" r="50"/>
