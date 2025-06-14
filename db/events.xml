@@ -599,7 +599,7 @@
             <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_khaki" />
             <child lootmax="5" lootmin="0" max="0" min="6" type="ZmbM_Jacket_stripes" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_JoggerSkinny_Blue" />
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_JoggerSkinny_Green" />
+            <!--<child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_JoggerSkinny_Green" />--><!--Being used for BigFoot-->
             <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_VillagerOld_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_VillagerOld_White" />
         </children>
@@ -1685,6 +1685,23 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="1" min="1" type="OffroadHatchback_Blue"/>
+        </children>
+    </event>
+    <event name="InfectedBigFoot">
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>player</position>
+        <limit>custom</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="1" min="1" type="ZmbM_JoggerSkinny_Green" />
         </children>
     </event>
 </events>
