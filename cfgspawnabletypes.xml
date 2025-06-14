@@ -2418,13 +2418,15 @@
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
+	<!--BigFoot-->
 	<type name="ZmbM_JoggerSkinny_Green">
 		<!--<cargo preset="foodVillage" />-->
-		<cargo preset="drinks_custom" />
-		<cargo preset="food_custom" />
-		<cargo preset="toolsVillage" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsFarm" />
+		<!--<cargo preset="drinks_custom" />-->
+		<!--<cargo preset="food_custom" />-->
+		<!--<cargo preset="toolsVillage" />-->
+		<cargo preset="BigFoot_Custom" />
+		<attachments preset="BigFoot_Hood" />
+		<attachments preset="BigFoot_Suit" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Red">
 		<!--<cargo preset="drinks_T1" />-->
