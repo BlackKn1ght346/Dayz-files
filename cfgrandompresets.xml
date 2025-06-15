@@ -818,5 +818,17 @@
 			<item name="ZagorkyChocolate" chance="0.0357" />
 			<item name="ZagorkyPeanuts" chance="0.0357" />
 			<item name="Zucchini" chance="0.0357" />				
-		</cargo>	
+		</cargo>
+	        <!--Bigfoot event-->
+                <cargo chance="1.0" name="toolsCommon_T15">
+			<item name="PunchedCard" chance="0.33" />
+			<item name="CannabisSeedsPack" chance="0.33" />
+			<item name="ShippingContainerKeys_Red" chance="0.33" />
+		</cargo>
+		<attachments chance="1.0" name="helmetsCommon_T15">
+				<item name="GhillieHood_Tan" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0" name="backpacks_T15">
+				<item name="GhillieSuit_Tan" chance="1.0" />
+		</attachments>
 </randompresets>
