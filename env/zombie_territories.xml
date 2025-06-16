@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
     <territory color="1289674462">
-        <zone name="InfectedMummy" smin="0" smax="0" dmin="1" dmax="2" x="4790.46" z="8484.40" r="100"/>
-        <zone name="InfectedMummy" smin="0" smax="0" dmin="1" dmax="2" x="4203.32" z="8556.34" r="100"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="4790.46" z="6879.48" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="4203.32" z="7511.83" r="300"/>
+	<zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="4430.30" z="8076.13" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="5334.83" z="6250.54" r="300"/>
     </territory>
 	<!--
     <territory color="1289674462">
