@@ -7702,10 +7702,10 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieAtt_Tan">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7713,10 +7713,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieAtt_Woodland">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7770,10 +7770,10 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieHood_Tan">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7804,10 +7804,10 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieSuit_Tan">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
