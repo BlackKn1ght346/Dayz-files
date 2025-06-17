@@ -11,6 +11,7 @@
         <category name="explosives"/>
         <category name="m4a1"/>
         <category name="PunchedCard"/>
+        <category name="DoNotUse"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -37,6 +38,7 @@
         <usage name="Historical"/>
         <usage name="Convoy"/>
         <usage name="0ilrig"/>
+        <usage name="donotuse"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
