@@ -1885,14 +1885,15 @@
 		<attachments preset="hatsIndustrial" />
 		<attachments preset="vestsIndustrial" />
 	</type>
+	<!--Bigfoot-->
 	<type name="ZmbM_HandymanNormal_Beige">
 		<!--<cargo preset="foodCity" />-->
-		<cargo preset="drinks_custom" />
-		<cargo preset="food_custom" />
-		<cargo preset="toolsIndustrial" />
-		<attachments preset="glassesVillage" />
-		<attachments preset="hatsIndustrial" />
-		<attachments preset="vestsIndustrial" />
+		<!--<cargo preset="drinks_custom" />-->
+		<!--<cargo preset="food_custom" />-->	
+		<cargo preset="tools2City" />
+		<!--<attachments preset="glassesCity" />-->
+		<attachments preset="hats2City" />
+		<attachments preset="bags2City" />
 	</type>
 	<type name="ZmbM_HandymanNormal_Blue">
 		<!--<cargo preset="foodCity" />-->
