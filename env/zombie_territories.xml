@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="1289674462">
-        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="5995.37" z="6881.18" r="300"/>
-        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="4598.23" z="5150.86" r="300"/>
-		<zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="4427.87" z="8077.10" r="300"/>
-        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="6326.61" z="5578.10" r="300"/>
-    </territory>
 	<!--
     <territory color="1289674462">
         <zone name="InfectedHorde" smin="0" smax="0" dmin="30" dmax="30" x="4213.04" z="7924.35" r="75"/>
@@ -128,6 +122,19 @@
         <zone name="InfectedCityTier1" smin="0" smax="0" dmin="2" dmax="4" x="4569" z="9564" r="60"/>
     </territory>
     <territory color="1291845632">
+	<zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="2652.919922" z="7633.500000" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="383.109009" z="7109.029785" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="1777.819946" z="6021.009766" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="5367.729980" z="6185.899902" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="3" x="2841.250000" z="14681.799805" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="6536.640137" z="12006.099609" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="8821.839844" z="5536.609863" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="6198.419922" z="14068.700195" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="12218.299805" z="4803.689941" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="3" x="11901.200195" z="11577.500000" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="14667.700195" z="13632.599609" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="15068.000000" z="14777.799805" r="300"/>
+        <zone name="InfectedBigfoot" smin="0" smax="0" dmin="1" dmax="2" x="8393.849609" z="15051.599609" r="300"/>    
         <zone name="InfectedReligious" smin="0" smax="0" dmin="3" dmax="5" x="10582.1" z="2490.38" r="100"/>
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="6489" z="2382" r="60"/>
         <zone name="InfectedReligious" smin="0" smax="0" dmin="1" dmax="3" x="1729" z="3835" r="70"/>
