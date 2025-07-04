@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Underground_Storage_Hospital",
+            "pos": [
+                12443.1904296875,
+                139.99911499023438,
+                12374.3291015625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Underground_Storage_Ammo2",
+            "pos": [
+                12470.4560546875,
+                139.99755859375,
+                12375.208984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

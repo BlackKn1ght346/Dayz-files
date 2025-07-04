@@ -9,7 +9,7 @@
     "PlayerData": {
         "disablePersonalLight": false,
         "spawnGearPresetFiles": [
-            "./custom/spawnGearPresetEventLoadout9.json"
+            "./custom/myloadoutnewkit.json"
         ],
         "StaminaData": {
             "sprintStaminaModifierErc": 0,
@@ -58,16 +58,13 @@
             "./custom/OilRig.json",
             "./custom/OilRigGunrack.json",
             "./custom/PunchCards.json",
-            "./custom/BaseYellow.json",
-            "./custom/BaseGreen.json",
+            "./custom/BaseYellow.json", 
             "./custom/BaseBlue.json",
-            "./custom/BaseMy40sTucked.json",
-            "./custom/BaseBschmit09.json",
-            "./custom/BaseJbug.json",
             "./custom/EventConstructionDM.json",
             "./custom/EventKraznoMaze.json",
             "./custom/newbunker.json",
             "./custom/testingbunkerloot.json",
+            "./custom/Destruction.json",
             "./custom/BaseRampage.json"
         ],
         "environmentMinTemps": [

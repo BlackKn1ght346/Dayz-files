@@ -361,7 +361,7 @@
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Black" />
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_ConstrWorkerNormal_Grey" />
-            <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Beige" />
+            <!--<child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Beige" />--><!--Bigfoot-->
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Blue" />
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Green" />
             <child lootmax="5" lootmin="0" max="0" min="4" type="ZmbM_HandymanNormal_Grey" />
@@ -1134,6 +1134,7 @@
         <active>0</active>
         <children />
     </event>
+	<!--
     <event name="InfectedMummy">
         <nominal>50</nominal>
         <min>25</min>
@@ -1151,6 +1152,7 @@
             <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_Mummy" />
         </children>
     </event>
+	-->
     <!-- EVENT NWAF-->
     <event name="StaticNPCLewis">
         <nominal>1</nominal>
@@ -1635,5 +1637,73 @@
         <limit>child</limit>
         <active>1</active>
         <children/>
+    </event>
+    <event name="StaticNwafHumvee">
+        <nominal>10</nominal><!--up to 5-->
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>200</distanceradius>
+        <cleanupradius>50</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
+        </children>
+    </event>
+    <event name="Statichumveespawn">
+        <nominal>10</nominal><!--up to 5-->
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>200</distanceradius>
+        <cleanupradius>50</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
+        </children>
+    </event>
+    <event name="StaticADAspawn">
+        <nominal>10</nominal><!--up to 5-->
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>200</distanceradius>
+        <cleanupradius>50</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="OffroadHatchback_Blue"/>
+        </children>
+    </event>
+    <event name="InfectedBigfoot">
+        <nominal>50</nominal>
+        <min>25</min>
+        <max>100</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>25</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_HandymanNormal_Beige"/>
+        </children>
     </event>
 </events>
