@@ -7800,7 +7800,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieHood_Tan">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -7833,7 +7833,7 @@
         <usage name="Military"/>
     </type>
     <type name="GhillieSuit_Tan">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
         <min>5</min>
