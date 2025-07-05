@@ -1504,7 +1504,7 @@
     </group>
     <!--<pos x="12145.041016" z="12763.093750" a="0" y="140.304794" group="ExodusMazeZ3"/>-->
     <group name="ExodusMazeZ3">
-	    <child type="StaticObj_Furniture_table_crushed" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
+	    <child type="StaticObj_Furniture_table_crushed" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
 	    <child type="ZmbM_NBC_Yellow" spawnsecondary="false" x="-114.9678" z="39.2305" y="-0.4222" a="0"/>   
 	    <child type="ZmbM_Mummy" spawnsecondary="false" x="-73.8066" z="52.3145" y="-0.3048" a="0"/>
 	    <child type="ZmbM_ParamedicNormal_Blue" spawnsecondary="false" x="-21.0879" z="69.3574" y="-0.3048" a="0"/>
