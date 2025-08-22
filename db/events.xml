@@ -917,7 +917,7 @@
         <limit>mixed</limit>
         <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom" />redpine
+            <child lootmax="0" lootmin="0" max="0" min="0" type="LactariusMushroom" />
         </children>
     </event>
     <event name="TrajectoryHumus">
@@ -1707,4 +1707,5 @@
         </children>
     </event>
 </events>
+
 
