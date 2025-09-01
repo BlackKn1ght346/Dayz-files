@@ -13577,27 +13577,25 @@
 			<point pos="1.259521 -0.537098 -1.384521" range="0.177002" height="0.442505" />
 		</container>
 	</group>
-<!--
-	<group name="Land_BusStop_Village2" lootmax="6">
-		    <usage name="Military"/>
-			<usage name="Medic"/>
-		    <value name="Tier4" />
+	<!-- Removed for Maze
+	<group name="Land_BusStop_Village2">
+		<usage name="Village" />
 		<container name="lootFloor" lootmax="2">
-		    <category name="tools" />
+			<category name="tools" />
+			<category name="containers" />
+			<category name="clothes" />
+			<category name="food" />
 			<tag name="floor" />
 			<tag name="shelves" />
 			<point pos="0.935669 -0.361628 0.797119" range="0.168750" height="0.421875" />
 			<point pos="0.941772 -0.361628 -0.685791" range="0.168750" height="0.421875" />
-		</container>
-		<container name="lootweapons" lootmax="4">
-            <category name="weapons" />
 			<point pos="0.393921 -0.883638 1.539062" range="0.872403" height="2.000000" />
 			<point pos="0.314819 -0.883638 -1.531006" range="0.856250" height="2.000000" />
 			<point pos="0.959351 -0.361628 0.047363" range="0.168750" height="0.421875" />
 			<point pos="0.266235 -0.883638 0.025391" range="0.646644" height="0.490490" />
 		</container>
 	</group>
--->
+	-->
 	<group name="Land_Castle_Bastion2">
 		<usage name="Hunting" />
 		<usage name="Village" />
@@ -17929,160 +17927,124 @@
 		<container name="lootFloor" lootmax="9">
 		</container>
 		<dispatch dechance="1.000000">
-			<proxy type="KitchenKnife" pos="1.280762 -1.087738 0.534241"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+    		<proxy type="KitchenKnife" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="P1" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.000000 0.000000"
-				dechance="1.0" />
-		</dispatch>
+			<proxy type="P1" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.000000 0.000000" dechance="1.0" />					
+		</dispatch>					
 		<dispatch dechance="1.000000">
-			<proxy type="CZ61" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.000000 0.000000"
-				dechance="1.0" />
-		</dispatch>
+		    <proxy type="CZ61" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>					
 		<dispatch dechance="1.000000">
-			<proxy type="Lockpick" pos="1.280762 -1.087738 0.534241"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="Lockpick" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.000000 0.000000" dechance="1.0" />					
+		</dispatch>				
 		<dispatch dechance="1.000000">
-			<proxy type="DenimJacket" pos="2.228149 -1.087738 0.369354"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="DenimJacket" pos="2.228149 -1.087738 0.369354" rpy="0.000000 0.000000 0.000000" dechance="1.0" />	
+		</dispatch>							
 		<dispatch dechance="1.000000">
-			<proxy type="PoliceVest" pos="-0.109009 -1.087738 -0.011322"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="PoliceVest" pos="-0.109009 -1.087738 -0.011322" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>		
 		<dispatch dechance="1.000000">
-			<proxy type="TortillaBag" pos="-1.440674 -1.087740 -0.539337"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="TortillaBag" pos="-1.440674 -1.087740 -0.539337" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>		
 		<dispatch dechance="1.000000">
-			<proxy type="BDUPants" pos="-2.695191 -1.087740 0.466858"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="BDUPants" pos="-2.695191 -1.087740 0.466858" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>	
 		<dispatch dechance="1.000000">
-			<proxy type="ShippingContainerKeys_Blue" pos="2.449341 -1.087740 -0.670532"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
+			<proxy type="ShippingContainerKeys_Blue" pos="2.449341 -1.087740 -0.670532" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>																							
 	</group>
 	<group name="Land_ContainerLocked_Blue_DE" lootmax="9">
 		<container name="lootFloor" lootmax="9">
-		</container>
+		</container>			
 		<dispatch dechance="1.000000">
-			<proxy type="Cleaver" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.000000 0.000000"
-				dechance="0.25" />
+			<proxy type="Cleaver" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+		</dispatch>			
+		<dispatch dechance="1.000000">
+			<proxy type="MakarovIJ70" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>					
+		<dispatch dechance="1.000000">
+				<proxy type="Vikhr" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+		</dispatch>					
+		<dispatch dechance="1.000000">
+			<proxy type="Rangefinder" pos="-1.784058 -1.087738 0.510315" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="MakarovIJ70" pos="-2.489868 -1.087738 -0.568787"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+			<proxy type="CigarettePack_Chernamorka" pos="2.228149 -1.087738 0.369354" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Vikhr" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.000000 0.000000"
-				dechance="1.0" />
+			<proxy type="PressVest_Blue" pos="-0.109009 -1.087738 -0.011322" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Rangefinder" pos="-1.784058 -1.087738 0.510315"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+			<proxy type="AssaultBag_Green" pos="-1.440674 -1.087740 -0.539337" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Hoodie_Brown" pos="2.228149 -1.087738 0.369354"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
+			<proxy type="HunterPant_Brown" pos="-2.695191 -1.087740 0.466858" rpy="0.000000 0.000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="PressVest_Blue" pos="-0.109009 -1.087738 -0.011322"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="AssaultBag_Green" pos="-1.440674 -1.087740 -0.539337"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="HunterPant_Brown" pos="-2.695191 -1.087740 0.466858"
-				rpy="0.000000 0.000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="ShippingContainerKeys_Orange" pos="2.449341 -1.087740 -0.670532"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="ShippingContainerKeys_Orange" pos="2.449341 -1.087740 -0.670532" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
 	<group name="Land_ContainerLocked_Orange_DE" lootmax="9">
 		<container name="lootFloor" lootmax="9">
 		</container>
 		<dispatch dechance="1.000000">
-			<proxy type="KukriKnife" pos="1.280762 -1.087738 0.534241"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="KukriKnife" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="CZ75" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.0000000 0.000000"
-				dechance="1.0" />
+			<proxy type="CZ75" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="M16A2" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.0000000 0.000000"
-				dechance="1.0" />
+			<proxy type="M16A2" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />		
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Binoculars" pos="-1.784058 -1.087738 0.510315"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Binoculars" pos="-1.784058 -1.087738 0.510315" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="NavyUniformJacket" pos="2.228149 -1.087738 0.369354"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		<proxy type="NavyUniformJacket" pos="2.228149 -1.087738 0.369354" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="GorkaHelmet" pos="-0.109009 -1.087738 -0.011322"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="GorkaHelmet" pos="-0.109009 -1.087738 -0.011322" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="TTSKOPants" pos="-1.440674 -1.087740 -0.539337"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="TTSKOPants" pos="-1.440674 -1.087740 -0.539337" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="HikingBoots_Black" pos="-2.695191 -1.087740 0.466858"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="HikingBoots_Black" pos="-2.695191 -1.087740 0.466858" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="ShippingContainerKeys_Red" pos="2.449341 -1.087740 -0.670532"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="ShippingContainerKeys_Red" pos="2.449341 -1.087740 -0.670532" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
 	<group name="Land_ContainerLocked_Red_DE" lootmax="9">
 		<container name="lootFloor" lootmax="9">
 		</container>
 		<dispatch dechance="1.000000">
-			<proxy type="CombatKnife" pos="1.280762 -1.087738 0.534241"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="CannabisSeedsPack" pos="1.280762 -1.087738 0.534241" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Deagle" pos="-2.489868 -1.087738 -0.568787"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="ClaymoreMine" pos="-2.489868 -1.087738 -0.568787" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="M4A1" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.0000000 0.000000"
-				dechance="1.0" />
+			<proxy type="M4A1" pos="1.435303 -1.087738 -0.435181" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="Mich2001Helmet" pos="-1.784058 -1.087738 0.510315"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Mich2001Helmet" pos="-1.784058 -1.087738 0.510315" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="USMCJacket_Woodland" pos="2.228149 -1.087738 0.369354"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="USMCJacket_Woodland" pos="2.228149 -1.087738 0.369354" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="PlateCarrierVest" pos="-0.109009 -1.087738 -0.011322"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="PlateCarrierVest" pos="-0.109009 -1.087738 -0.011322" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="USMC_Woodland" pos="-1.440674 -1.087740 -0.539337"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="USMC_Woodland" pos="-1.440674 -1.087740 -0.539337" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="MilitaryBoots_Black" pos="-2.695191 -1.087740 0.466858"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="Grenade_ChemGas" pos="-2.695191 -1.087740 0.466858" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 		<dispatch dechance="1.000000">
-			<proxy type="M67Grenade" pos="2.449341 -1.087740 -0.670532"
-				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+			<proxy type="ImprovisedExplosive" pos="2.449341 -1.087740 -0.670532" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
 	<!--StaticC130crashAirfield-->
@@ -18353,10 +18315,7 @@
 				rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
 		</dispatch>
 	</group>
-
-	<!--Oil
-	RIG-->
-
+	<!--OilRIG-->
 	<group name="Static_Misc_Gunrack_OilRigGuns1" lootmax="1">
 		<container name="loot" lootmax="1">
 		</container>
@@ -18380,7 +18339,7 @@
 	</group>
 	<!--Boxing-->
 	<group name="StaticObj_Furniture_table_umakart" lootmax="6">
-		<container name="lootFloor" lootmax="6">
+		<container name="lootFloor">
 		</container>
 		<dispatch dechance="1.000000">
 			<proxy type="SodaCan_Pipsi" pos="0.961696 0.522276 0.262230"
@@ -18407,105 +18366,7 @@
 				rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
 		</dispatch>
 	</group>
-	<!--Maze Zombies-->
-	<group name="StaticObj_Furniture_shelfs_small_crushed" lootmax="2">
-        <container name="lootFloor" lootmax="2">
-        </container>
-    </group>
-	<group name="StaticObj_racks_crushed" lootmax="2">
-        <container name="lootFloor" lootmax="2">
-        </container>
-    </group>
-	<group name="StaticObj_Furniture_table_crushed" lootmax="2">
-        <container name="lootFloor" lootmax="2">
-        </container>
-    </group>
-	<group name="StaticObj_chair_crushed" lootmax="2">
-        <container name="lootFloor" lootmax="2">
-        </container>
-    </group>
-    <!--Maze Loot-->
-	<group name="Land_BusStop_Village2" lootmax="8">
-		<container name="lootFloor" lootmax="8">
-		</container>
-		<dispatch dechance="1.000000">
-			<proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.214284 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Ammo_12gaSlug" pos="0.941772 -0.335824 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="R12" pos="0.388838 -0.797625 1.695302" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="WeaponCleaningKit" pos="0.314819 -0.725074 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="AK_Suppressor" pos="0.959351 -0.230739 0.047363" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="PistolSuppressor" pos="0.266235 -0.770699 0.025391" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Mag_AKM_30Rnd" pos="-0.338647 -0.722848 -0.708856" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Mag_Deagle_9rnd" pos="-0.434479 -0.787895 0.688980" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
-		</dispatch>
-	</group>
-	<group name="Land_Underground_Storage_Ammo2" lootmax="10">
-	    <usage name="Industrial" />
-	    <usage name="Farm" />
-	    <usage name="Military" />
-	    <value name="Tier4" />
-	    <container name="lootFloor" lootmax="10">
-	        <category name="weapons" />
-		    <category name="tools" />
-		    <tag name="floor" />
-		    <tag name="ground" />
-		    <tag name="shelves" />
-		    <point pos="-7.323690 1.137003 -4.608829" range="1" height="1" /> 
-		    <point pos="-5.706453 0.452388 0.757069" range="1" height="1" /> 
-		    <point pos="-1.700619 1.730650 3.370728" range="1" height="1" /> 
-		    <point pos="0.555707 1.210278 -1.685393" range="1" height="1" /> 
-		    <point pos="0.493921 1.501981 -3.779097" range="1" height="1" /> 
-		    <point pos="-2.078280 0.012780 -2.808037" range="1" height="1" /> 
-		    <point pos="3.022546 1.194309 1.026305" range="1" height="1" /> 
-		    <point pos="9.132736 0.012778 -2.120053" range="1" height="1" /> 
-		    <point pos="-8.145402 0.363090 0.886296" range="1" height="1" /> 
-		    <point pos="-7.639012 0.959005 -2.860245" range="1" height="1" /> 
-	    </container>
-    </group>
-    <group name="Land_Underground_Storage_Hospital" lootmax="16">
-        <usage name="Military" />
-        <usage name="Medic" />
-        <value name="Tier3" />
-        <value name="Tier4" />
-        <container name="lootFloor" lootmax="16">
-            <category name="tools" />
-            <category name="weapons" />
-            <category name="explosives" />
-            <tag name="floor" />
-            <tag name="shelves" />
-            <tag name="ground" />
-            <point pos="-5.768554 1.023896 -2.899414" range="0.4500" height="1.5000" />
-            <point pos="-9.375976 1.023896 -2.931641" range="0.4500" height="1.5000" />
-            <point pos="-6.696289 0.012787 2.734375" range="0.4500" height="1.5000" />
-            <point pos="-1.859375 1.025284 -3.283203" range="0.4500" height="1.5000" />
-            <point pos="2.468750 0.726563 -0.345703" range="0.4500" height="1.5000" />
-            <point pos="1.288086 0.012772 5.029297" range="0.4500" height="1.5000" />
-            <point pos="6.259766 0.012772 4.552734" range="0.4500" height="1.5000" />
-            <point pos="9.493164 1.023896 -0.281250" range="0.4500" height="1.5000" />
-            <point pos="6.794922 0.726563 -4.130860" range="0.4500" height="1.5000" />
-            <point pos="3.882813 1.016510 2.208007" range="0.4500" height="1.5000" />
-            <point pos="4.707031 0.726563 3.056640" range="0.4500" height="1.5000" />
-            <point pos="-2.041992 0.718491 -4.034180" range="0.4500" height="1.5000" />
-            <point pos="9.720703 0.479996 -1.446289" range="0.4500" height="1.5000" />
-            <point pos="9.784180 0.860001 -2.877930" range="0.4500" height="1.5000" />
-            <point pos="9.709961 0.104996 -3.653321" range="0.4500" height="1.5000" />
-            <point pos="9.810547 1.240006 -2.115235" range="0.4500" height="1.5000" />
-        </container>
-    </group>
+	<!--1.28-->
 	<group name="Land_Wreck_S1023_Medic_Beige_DE" lootmax="10">
                 <usage name="Medic" />
                 <container name="lootFloor" lootmax="10">
@@ -18523,8 +18384,8 @@
                         <point pos="-3.175378 -0.039291 -0.205491" range="0.856250" height="2.140625" flags="32" />
                         <point pos="-1.728465 0.473426 -0.689999" range="0.100000" height="0.250000" />
                 </container>
-        </group>
-		<group name="Land_Boat_Small9_DE" lootmax="15">
+    </group>
+	<group name="Land_Boat_Small9_DE" lootmax="15">
                 <usage name="Coast" />
                 <usage name="Farm" />
                 <container name="lootFloor" lootmax="11">
@@ -18560,7 +18421,7 @@
                         <point pos="1.062847 3.846175 0.010299" range="1.200000" height="2.000000" flags="16" />
                 </container>
         </group>
-	<group name="StaticObj_PatrolBoat_Military_DE" lootmax="15">
+		<group name="StaticObj_PatrolBoat_Military_DE" lootmax="15">
                 <usage name="Military" />
                 <container name="lootFloor" lootmax="15">
                         <category name="tools" />
@@ -18588,7 +18449,7 @@
                         <point pos="-4.902832 -1.772293 -0.011964" range="0.168750" height="0.421875" flags="16" />
                 </container>
         </group>
-		<!--Exodus Ghost Town-->
+		<!--Destruction-->
 	    <group name="Land_Ruin_HouseBig1" lootmax="19">
 				<usage name="Hunting" />
 		        <usage name="Military" />
@@ -19089,6 +18950,50 @@
 						<point pos="-2.671984 0.000000 3.735730" range="1.200000" height="2.000000" flags="32" />
 				</container>
 		</group>
-
-
+		<!--Maze Zombies-->
+	    <group name="StaticObj_Furniture_shelfs_small_crushed" lootmax="2">
+            <container name="lootFloor" lootmax="2">
+            </container>
+        </group>
+	    <group name="StaticObj_racks_crushed" lootmax="2">
+            <container name="lootFloor" lootmax="2">
+            </container>
+        </group>
+	    <group name="StaticObj_Furniture_table_crushed" lootmax="2">
+            <container name="lootFloor" lootmax="2">
+            </container>
+        </group>
+	    <group name="StaticObj_chair_crushed" lootmax="2">
+            <container name="lootFloor" lootmax="2">
+            </container>
+        </group>		
+        <!--Maze Loot-->
+	    <group name="Land_BusStop_Village2" lootmax="8">
+		    <container name="lootFloor" lootmax="8">
+		    </container>
+		    <dispatch dechance="1.000000">
+			    <proxy type="Mag_AKM_30Rnd" pos="0.935669 -0.214284 0.797119" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="Ammo_12gaSlug" pos="0.941772 -0.335824 -0.685791" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="R12" pos="0.388838 -0.797625 1.695302" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="WeaponCleaningKit" pos="0.314819 -0.725074 -1.531006" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="AK_Suppressor" pos="0.959351 -0.230739 0.047363" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="PistolSuppressor" pos="0.266235 -0.770699 0.025391" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="Mag_AKM_30Rnd" pos="-0.338647 -0.722848 -0.708856" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+		    <dispatch dechance="1.000000">
+			    <proxy type="Mag_Deagle_9rnd" pos="-0.434479 -0.787895 0.688980" rpy="0.000000 0.0000000 0.000000" dechance="1.0" />
+		    </dispatch>
+	    </group>		
 </prototype>

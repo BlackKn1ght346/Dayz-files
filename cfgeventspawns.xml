@@ -1584,22 +1584,23 @@
         <!--VIP Area-->
         <pos x="12195.589844" z="12491.537109" a="0" y="144.137955" group="VIP" />
     </event>
+    <!--Maze-->
     <event name="StaticMazeZ1">
         <!--Zone1-->
-        <pos x="12237.381836" z="12626.775391" a="0" y="140.000000" group="ExodusMazeZ1"/>       		
-	</event>
+        <pos x="12237.381836" z="12626.775391" a="0" y="140.000000" group="ExodusMazeZ1"/>
+    </event>
     <event name="StaticMazeZ2">
         <!--Zone2-->
-        <pos x="12100.585938" z="12533.939453" a="0" y="140.054993" group="ExodusMazeZ2"/>       		
-	</event>
+        <pos x="12100.585938" z="12533.939453" a="0" y="140.054993" group="ExodusMazeZ2"/>
+    </event>
     <event name="StaticMazeZ3">
         <!--Zone3-->
-        <pos x="12145.041016" z="12763.093750" a="0" y="140.304794" group="ExodusMazeZ3"/>       		
-	</event>
+        <pos x="12145.041016" z="12763.093750" a="0" y="140.304794" group="ExodusMazeZ3"/>
+    </event>
     <event name="StaticMazeZ4">
         <!--Zone4-->
-        <pos x="12007.494141" z="12685.398438" a="0" y="140.137650" group="ExodusMazeZ4"/>       		
-	</event>
+        <pos x="12007.494141" z="12685.398438" a="0" y="140.137650" group="ExodusMazeZ4"/>
+    </event>
     <event name="StaticBusStopMaze">
         <!--Zone1Weapons-->
         <pos x="12257.013672" z="12679.673828" a="0" y="141.011108" group="EastZ1Loot1"/>
