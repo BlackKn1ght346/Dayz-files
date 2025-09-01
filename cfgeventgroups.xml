@@ -1461,7 +1461,8 @@
 	<!--<pos x="12195.589844" z="12491.537109" a="0" y="144.137955" group="VIP"/>-->
     <group name="VIP">
 	<child type="StaticObj_Furniture_table_umakart" deloot="1" lootmax="6" lootmin="6" x="0" z="0" y="0" a="320.337448"/>
-    </group>
+    </group>    
+    <!--Maze-->
     <!--<pos x="12237.381836" z="12626.775391" a="0" y="140.000000" group="ExodusMazeZ1"/>-->
     <group name="ExodusMazeZ1">
 	    <child type="StaticObj_Furniture_shelfs_small_crushed" deloot="1" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
@@ -1573,5 +1574,5 @@
     <!--<pos x="11998.124023" z="12678.057617" a="0" y="141.011124" group="MazeZ4Loot8"/>-->
     <group name="MazeZ4Loot8">
 	    <child type="Land_BusStop_Village2" deloot="1" lootmax="8" lootmin="8" x="0" z="0" y="0" a="328.05504"/>
-    </group>
+    </group>       
 </eventgroupdef>
