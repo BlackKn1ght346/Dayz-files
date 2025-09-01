@@ -15,16 +15,17 @@
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
         <file path="env/hare_territories.xml" />
-        <file path="env/fox_territories.xml" />
-                        <!--added-->
-        <file path="custom/bearmazez1_territories.xml" />
-        <file path="custom/wolfmazez1_territories.xml" />
-		<file path="custom/bearmazez2_territories.xml" />
-        <file path="custom/wolfmazez2_territories.xml" />
-		<file path="custom/bearmazez3_territories.xml" />
-        <file path="custom/wolfmazez3_territories.xml" />
-		<file path="custom/bearmazez4_territories.xml" />
-        <file path="custom/wolfmazez4_territories.xml" />
+        <file path="env/fox_territories.xml" />	
+
+        <!--Maze-->
+        <file path="custom/territories_bearmazez1.xml" />
+        <file path="custom/territories_wolfmazez1.xml" />
+		<file path="custom/territories_bearmazez2.xml" />
+        <file path="custom/territories_wolfmazez2.xml" />
+		<file path="custom/territories_bearmazez3.xml" />
+        <file path="custom/territories_wolfmazez3.xml" />
+		<file path="custom/territories_bearmazez4.xml" />
+        <file path="custom/territories_wolfmazez4.xml" />	
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
@@ -53,32 +54,33 @@
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
 		</territory>
-                           <!--added-->
+
+        <!--Maze-->
         <territory type="Herd" name="BearZ1" behavior="BlissBearGroupBeh">
-            <file usable="bearmazez1_territories"/>
+            <file usable="territories_bearmazez1"/>
         </territory>
         <territory type="Herd" name="WolfZ1" behavior="DZWolfGroupBeh">
-            <file usable="wolfmazez1_territories"/>
+            <file usable="territories_wolfmazez1"/>
         </territory>
 		<territory type="Herd" name="BearZ2" behavior="BlissBearGroupBeh">
-            <file usable="bearmazez2_territories"/>
+            <file usable="territories_bearmazez2"/>
         </territory>
         <territory type="Herd" name="WolfZ2" behavior="DZWolfGroupBeh">
-            <file usable="wolfmazez2_territories"/>
+            <file usable="territories_wolfmazez2"/>
         </territory>
 		<territory type="Herd" name="BearZ3" behavior="BlissBearGroupBeh">
-            <file usable="bearmazez3_territories"/>
+            <file usable="territories_bearmazez3"/>
         </territory>
         <territory type="Herd" name="WolfZ3" behavior="DZWolfGroupBeh">
-            <file usable="wolfmazez3_territories"/>
+            <file usable="territories_wolfmazez3"/>
         </territory>
 		<territory type="Herd" name="BearZ4" behavior="BlissBearGroupBeh">
-            <file usable="bearmazez4_territories"/>
+            <file usable="territories_bearmazez4"/>
         </territory>
         <territory type="Herd" name="WolfZ4" behavior="DZWolfGroupBeh">
-            <file usable="wolfmazez4_territories"/>
-        </territory>
-        
+            <file usable="territories_wolfmazez4"/>
+        </territory>		
+
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
