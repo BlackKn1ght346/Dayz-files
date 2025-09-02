@@ -54,16 +54,13 @@
             "./custom/Exodus.json",
             "./custom/BasePrisonIslandBridge.json",
             "./custom/SafezoneDevilsCastle.json",
-            "./custom/BaseStaff.json",
+            "./custom/BaseStaffNoDoor.json",
+            "./custom/BaseStaffJustDoor.json",
             "./custom/OilRig.json",
             "./custom/OilRigGunrack.json",
-            "./custom/PunchCards.json",
-            "./custom/BaseYellow.json", 
-            "./custom/BaseBlue.json",
+            "./custom/PunchCards.json", 
             "./custom/EventConstructionDM.json",
             "./custom/EventKraznoMaze.json",
-            "./custom/newbunker.json",
-            "./custom/testingbunkerloot.json",
             "./custom/Destruction.json",
             "./custom/BaseRampage.json"
         ],
@@ -106,9 +103,7 @@
             "./custom/TeleportPrison.json",
             "./custom/TeleportStaffBase.json",
             "./custom/TeleportConstructionDM.json",
-            "./custom/TeleportContainersDM.json",
-            "./custom/TeleportBaseBlue.json",
-            "./custom/TeleportBaseYellow.json"
+            "./custom/TeleportContainersDM.json"
         ]
     },
     "BaseBuildingData": {
